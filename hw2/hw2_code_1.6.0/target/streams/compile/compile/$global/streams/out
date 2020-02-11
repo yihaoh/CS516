@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/yh218/516_HW/hw2/hw2_code_1.6.0/src/main/scala/PageRank.scala:83:62: value saveAsTextFile is not a member of Array[(Long, (Option[String], Double))][0m
+[0m[[0m[31merror[0m] [0m[0m	f.takeOrdered(10)(Ordering[Double].reverse.on(x =>x._2._2)).saveAsTextFile(OUTPUT_DIR + "/PageRank")[0m
+[0m[[0m[31merror[0m] [0m[0m	                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
